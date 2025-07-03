@@ -1,0 +1,18 @@
+{
+  "name": "supply-chain-trading-bot",
+  "version": "1.0.0",
+  "description": "Discord trading bot with supply chain analysis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.0",
+    "node-cron": "^3.0.3",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
